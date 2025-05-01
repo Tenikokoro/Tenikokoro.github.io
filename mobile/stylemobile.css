@@ -35,7 +35,7 @@ nav {
     cursor: pointer;
     background-color: black;
     height: 85px;
-    width: 170px;
+    width: 130px;
     position: relative;
     transition: 0.3s;
     font-family: monospace;
@@ -57,7 +57,7 @@ nav {
     cursor: pointer;
     background-color: black;
     height: 85px;
-    width: 170px;
+    width: 130px;
     position: relative;
     transition: 0.3s;
     font-family: monospace;
@@ -79,7 +79,7 @@ nav {
     cursor: pointer;
     background-color: black;
     height: 85px;
-    width: 170px;
+    width: 130px;
     position: relative;
     transition: 0.3s;
     font-family: monospace;
@@ -95,7 +95,7 @@ article {
     border-radius: 15px;
     margin: 10px;
     padding: 10px;
-    height: 300px;
+    height: 350px;
     text-align: center;
 }
 
@@ -104,7 +104,7 @@ aside {
     border-radius: 15px;
     margin: 10px;
     padding: 10px;
-    height: 400px;
+    height: 450px;
     text-align: center;
 }
 
@@ -113,7 +113,7 @@ aside {
     border-radius: 15px;
     margin: 10px;
     padding: 10px;
-    height: 300px;
+    height: 350px;
     text-align: left;
 }
 
