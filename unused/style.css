@@ -42,6 +42,8 @@ article {
     font-family: monospace;
     display: flex;
     flex-direction: column;
+    border: purple 5px solid;
+    border-radius: 30px;
 }
 
 aside {
@@ -50,6 +52,8 @@ aside {
     height: 20vh;
     text-align: center;
     color: white;
+    border: purple 5px solid;
+    border-radius: 30px;
 }
 
 nav {
@@ -69,8 +73,17 @@ nav {
     height: 85px;
     width: 200px;
     border: lightblue 5px solid;
+    border-radius: 50px;
     color: white;
     background-color: black;
+    cursor: pointer;
+    position: relative;
+    transition: 0.3s;
+}
+
+#telegrambutton:hover {
+    background-color: lightblue;
+    color: black;
 }
 
 footer {
